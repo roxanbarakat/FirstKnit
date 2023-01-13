@@ -1,12 +1,15 @@
 ---
 title: "First Knit"
-author: "Your Name"
-output: 
+author: "Roxan Barakat"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
   html_document:
-    number_sections: true
-    toc: true
+    number_sections: yes
+    toc: yes
     toc_depth: 5
-date: "`r Sys.Date()`"   
 ---
 
 # A Little Survey
@@ -17,7 +20,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended Lancaster High School and graduated in June of 2020. English and Math are two different subjects, Math is usually for left-brained individuals and English is for right-brained people. Math requires problem-solving and logic, on the other hand, English is for expression and creativity. In my opinion, Math is an easier subject than English, because it's a universal language that is taught worldwide. I did best in Math during my High school years due to my mother being an engineer and teaching me math at a young age. Math is a fun subject that is considered a brain workout. 
 
      
 
